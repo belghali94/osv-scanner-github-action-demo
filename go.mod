@@ -9,7 +9,6 @@ require (
 	github.com/jamespfennell/xz v0.1.2 // indirect
 	github.com/jaredallard/archives v1.0.0 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
-	github.com/mattermost/mattermost-server v10.4.1+incompatible // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20241210194714-1829a127f884 // indirect
 	golang.org/x/mod v0.23.0 // indirect
