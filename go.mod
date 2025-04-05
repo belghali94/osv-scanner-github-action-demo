@@ -20,4 +20,6 @@ require (
 	honnef.co/go/tools v0.5.1 // indirect
 	mvdan.cc/gofumpt v0.7.0 // indirect
 	mvdan.cc/xurls/v2 v2.5.0 // indirect
+	github.com/golang-jwt/jwt/v5 v5.1.0 // indirect
+	github.com/jaredallard/archives v1.0.0 // indirect
 )
