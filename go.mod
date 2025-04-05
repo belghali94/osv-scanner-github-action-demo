@@ -4,10 +4,8 @@ go 1.24.1
 
 require (
 	github.com/BurntSushi/toml v1.4.1-0.20240526193622-a339e1f7089c // indirect
-	github.com/golang-jwt/jwt/v5 v5.1.0 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/jamespfennell/xz v0.1.2 // indirect
-	github.com/jaredallard/archives v1.0.0 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20241210194714-1829a127f884 // indirect
